@@ -6,7 +6,7 @@ const HEIGHT:f64 = 600.0;
 const WIDTH:f64 = 600.0;
 const X_START:f64 = WIDTH / 2.0;
 const Y_START:f64 = HEIGHT / 2.0;
-const NUM_OF_RODS:i32 = 1000;
+const NUM_OF_RODS:i32 = 1500;
 
 struct Rod {
     x1:f64,
